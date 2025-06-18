@@ -1,0 +1,1024 @@
+Array
+(
+    [answer] => 10670915
+    [current_section_key] => 0
+    [option_id] => 10670915
+)
+Array
+(
+    [answer] => 10670915
+    [current_section_key] => 0
+    [option_id] => 10670915
+)
+Array
+(
+    [answer] => 10670915
+    [current_section_key] => 0
+    [option_id] => 10670915
+)
+Array
+(
+    [answer] => 10667959
+    [current_section_key] => 0
+    [option_id] => 10667959
+)
+Array
+(
+    [answer] => 10667959
+    [current_section_key] => 0
+    [option_id] => 10667959
+)
+Array
+(
+    [answer] => 10667959
+    [current_section_key] => 0
+    [option_id] => 10667959
+)
+Array
+(
+    [answer] => 10667959
+    [current_section_key] => 0
+    [option_id] => 10667959
+)
+Array
+(
+    [answer] => 10667959
+    [current_section_key] => 0
+    [option_id] => 10667959
+)
+Array
+(
+    [option_id] => 10665233
+)
+Array
+(
+    [option_id] => 10665233
+)
+Array
+(
+    [option_id] => 10665233
+)
+Array
+(
+    [option_id] => 10665233
+)
+Array
+(
+    [option_id] => 10665233
+)
+Array
+(
+    [option_id] => 10665233
+    [user_id] => 10
+)
+Array
+(
+    [option_id] => 10665233
+)
+Array
+(
+    [option_id] => 10665233
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 900673143
+    [option_id] => 900673143
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 900673143
+    [option_id] => 900673143
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 900673143
+    [option_id] => 900673143
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 900673143
+    [option_id] => 900673143
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [option_id] => 10665233
+)
+Array
+(
+    [answer] => 10665233
+    [option_id] => 10665233
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10663982
+    [option_id] => 10663982
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10670915
+    [option_id] => 10670915
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10663982
+    [option_id] => 10663982
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [option_id] => 10663982
+)
+Array
+(
+    [option_id] => 10663982
+)
+Array
+(
+    [option_id] => 10665233
+)
+Array
+(
+    [answer] => 10859260582
+    [option_id] => 10859260582
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10665233
+    [option_id] => 10665233
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10667747
+    [option_id] => 10667747
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10663982
+    [option_id] => 10663982
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10859260201
+    [option_id] => 10859260201
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10663982
+    [option_id] => 10663982
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [option_id] => 10663982
+)
+Array
+(
+    [answer] => 10667747
+    [option_id] => 10667747
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10665233
+    [option_id] => 10665233
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10859260581
+    [option_id] => 10859260581
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10667006
+    [option_id] => 10667006
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10663982
+    [option_id] => 10663982
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10670915
+    [option_id] => 10670915
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [option_id] => 10670915
+)
+Array
+(
+    [answer] => 21459260581
+    [option_id] => 21459260581
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10663982
+    [option_id] => 10663982
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10667747
+    [option_id] => 10667747
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10665233
+    [option_id] => 10665233
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [option_id] => 10665233
+)
+Array
+(
+    [option_id] => 10665233
+)
+Array
+(
+    [option_id] => 10665233
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260201
+    [option_id] => 10859260201
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3266","answer":"10859260201/RPT/06-03-25/2372","option_id":"10859260201/RPT/06-03-25/2372"},{"question_id":"3267","answer":"RCALU0260","option_id":"RCALU0260"},{"question_id":"3268","answer":"50.5 x 92.5","option_id":"50.5 x 92.5"},{"question_id":"3270","answer":"1000","option_id":"1000"}]}
+    [current_section_key] => 2
+    [answer] => 10859260201
+    [option_id] => 10859260201
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260201
+    [option_id] => 10859260201
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260111
+    [option_id] => 10859260111
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 900673141
+    [option_id] => 900673141
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260201
+    [option_id] => 10859260201
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10665233
+    [option_id] => 10665233
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260201
+    [option_id] => 10859260201
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10665233
+    [option_id] => 10665233
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260111
+    [option_id] => 10859260111
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260201
+    [option_id] => 10859260201
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3266","answer":"10859260201/RPT/06-03-25/2372","option_id":"10859260201/RPT/06-03-25/2372"},{"question_id":"3267","answer":"RCALU0260","option_id":"RCALU0260"},{"question_id":"3268","answer":"50.5 x 92.5","option_id":"50.5 x 92.5"},{"question_id":"3270","answer":"20","option_id":"20"}]}
+    [current_section_key] => 2
+    [answer] => 10859260201
+    [option_id] => 10859260201
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10663982
+    [option_id] => 10663982
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10670915
+    [option_id] => 10670915
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10663982
+    [option_id] => 10663982
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [option_id] => 10663982
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10667747
+    [option_id] => 10667747
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [option_id] => 10665233
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260201
+    [option_id] => 10859260201
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3266","answer":"10859260201/RPT/06-03-25/2372","option_id":"10859260201/RPT/06-03-25/2372"},{"question_id":"3267","answer":"RCALU0260","option_id":"RCALU0260"},{"question_id":"3268","answer":"50.5 x 92.5","option_id":"50.5 x 92.5"},{"question_id":"3270","answer":"12","option_id":"12"}]}
+    [current_section_key] => 2
+    [answer] => 10859260201
+    [option_id] => 10859260201
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260201
+    [option_id] => 10859260201
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3266","answer":"10859260201/RPT/06-03-25/2372","option_id":"10859260201/RPT/06-03-25/2372"},{"question_id":"3267","answer":"RCALU0260","option_id":"RCALU0260"},{"question_id":"3268","answer":"50.5 x 92.5","option_id":"50.5 x 92.5"},{"question_id":"3270","answer":"8","option_id":"8"}]}
+    [current_section_key] => 2
+    [answer] => 10859260201
+    [option_id] => 10859260201
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [answer] => 10667747
+    [current_section_key] => 0
+    [option_id] => 10667747
+)
+Array
+(
+    [answer] => 10667747
+    [current_section_key] => 0
+    [option_id] => 10667747
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260201
+    [option_id] => 10859260201
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10661467
+    [option_id] => 10661467
+    [user_id] => 49
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 900673143
+    [option_id] => 900673143
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 900673143
+    [option_id] => 900673143
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 900673143
+    [option_id] => 900673143
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 900673143
+    [option_id] => 900673143
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 900673143
+    [option_id] => 900673143
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 900673143
+    [option_id] => 900673143
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 900673143
+    [option_id] => 900673143
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10667747
+    [option_id] => 10667747
+    [user_id] => 10
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3276","answer":"10667747/BDL/04-04-25/30985","option_id":"10667747/BDL/04-04-25/30985"},{"question_id":"3277","answer":"RSAFG0320","option_id":"RSAFG0320"},{"question_id":"3278","answer":"54.0 x 90.0","option_id":"54.0 x 90.0"},{"question_id":"3280","answer":"24","option_id":"24"}]}
+    [current_section_key] => 2
+    [answer] => 10667747
+    [option_id] => 10667747
+    [user_id] => 10
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3276","answer":"10667747/BDL/04-04-25/30985","option_id":"10667747/BDL/04-04-25/30985"},{"question_id":"3277","answer":"RSAFG0320","option_id":"RSAFG0320"},{"question_id":"3278","answer":"54.0 x 90.0","option_id":"54.0 x 90.0"},{"question_id":"3280","answer":"24","option_id":"24"}],"2":[{"question_id":"3276","answer":"10667747/BDL/03-04-25/30975","option_id":"10667747/BDL/03-04-25/30975"},{"question_id":"3277","answer":"RSAFG0320","option_id":"RSAFG0320"},{"question_id":"3278","answer":"54.0 x 90.0","option_id":"54.0 x 90.0"},{"question_id":"3280","answer":"3","option_id":"3"}]}
+    [current_section_key] => 3
+    [answer] => 10667747
+    [option_id] => 10667747
+    [user_id] => 10
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10667747
+    [option_id] => 10667747
+    [user_id] => 10
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10670915
+    [option_id] => 10670915
+    [user_id] => 10
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10670915
+    [option_id] => 10670915
+    [user_id] => 10
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3266","answer":"10670915/RPT/19-03-25/30751","option_id":"10670915/RPT/19-03-25/30751"},{"question_id":"3267","answer":"RHBPF0100","option_id":"RHBPF0100"},{"question_id":"3268","answer":"102.0 x 72.0","option_id":"102.0 x 72.0"},{"question_id":"3270","answer":"40","option_id":"40"}]}
+    [current_section_key] => 2
+    [answer] => 10670915
+    [option_id] => 10670915
+    [user_id] => 10
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10667959
+    [option_id] => 10667959
+    [user_id] => 10
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3248","answer":"10667959/BP/19-03-25/30742","option_id":"10667959/BP/19-03-25/30742"},{"question_id":"3307","answer":"RSAFG0320","option_id":"RSAFG0320"},{"question_id":"3308","answer":"87.5 x 142.0","option_id":"87.5 x 142.0"},{"question_id":"3309","answer":"9500","option_id":"9500"}]}
+    [current_section_key] => 2
+    [answer] => 10667959
+    [option_id] => 10667959
+    [user_id] => 10
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260111
+    [option_id] => 10859260111
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3276","answer":"10859260111/BDL/06-03-25/2378","option_id":"10859260111/BDL/06-03-25/2378"},{"question_id":"3277","answer":"RCALU0250","option_id":"RCALU0250"},{"question_id":"3278","answer":"51.0 x 92.5","option_id":"51.0 x 92.5"},{"question_id":"3280","answer":"2","option_id":"2"}]}
+    [current_section_key] => 0
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260111
+    [option_id] => 10859260111
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3276","answer":"10859260111/BDL/06-03-25/2378","option_id":"10859260111/BDL/06-03-25/2378"},{"question_id":"3277","answer":"RCALU0250","option_id":"RCALU0250"},{"question_id":"3278","answer":"51.0 x 92.5","option_id":"51.0 x 92.5"},{"question_id":"3280","answer":"2","option_id":"2"}]}
+    [current_section_key] => 0
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260111
+    [option_id] => 10859260111
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3276","answer":"10859260112/BDL/07-03-25/2403","option_id":"10859260112/BDL/07-03-25/2403"},{"question_id":"3277","answer":"RCALU0250","option_id":"RCALU0250"},{"question_id":"3278","answer":"51.0 x 92.5","option_id":"51.0 x 92.5"},{"question_id":"3280","answer":"20","option_id":"20"}]}
+    [current_section_key] => 2
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260111
+    [option_id] => 10859260111
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3276","answer":"10859260112/BDL/07-03-25/2403","option_id":"10859260112/BDL/07-03-25/2403"},{"question_id":"3277","answer":"RCALU0250","option_id":"RCALU0250"},{"question_id":"3278","answer":"51.0 x 92.5","option_id":"51.0 x 92.5"},{"question_id":"3280","answer":"20","option_id":"20"}]}
+    [current_section_key] => 2
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3276","answer":"10859260112/BDL/07-03-25/2403","option_id":"10859260112/BDL/07-03-25/2403"},{"question_id":"3277","answer":"RCALU0250","option_id":"RCALU0250"},{"question_id":"3278","answer":"51.0 x 92.5","option_id":"51.0 x 92.5"},{"question_id":"3280","answer":"20","option_id":"20"}]}
+    [current_section_key] => 2
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3276","answer":"10859260112/BDL/07-03-25/2403","option_id":"10859260112/BDL/07-03-25/2403"},{"question_id":"3277","answer":"RCALU0250","option_id":"RCALU0250"},{"question_id":"3278","answer":"51.0 x 92.5","option_id":"51.0 x 92.5"},{"question_id":"3280","answer":"20","option_id":"20"}]}
+    [current_section_key] => 2
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3276","answer":"10859260112/BDL/07-03-25/2403","option_id":"10859260112/BDL/07-03-25/2403"},{"question_id":"3277","answer":"RCALU0250","option_id":"RCALU0250"},{"question_id":"3280","answer":"20","option_id":"20"}]}
+    [current_section_key] => 2
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260111
+    [option_id] => 10859260111
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3276","answer":"10859260112/BDL/07-03-25/2406","option_id":"10859260112/BDL/07-03-25/2406"}]}
+    [current_section_key] => 0
+    [answer] => 10859260580
+    [option_id] => 10859260580
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3276","answer":"10859260580/BDL/07-03-25/2462","option_id":"10859260580/BDL/07-03-25/2462"},{"question_id":"3277","answer":"RCALU0250","option_id":"RCALU0250"},{"question_id":"3278","answer":"51.0 x 92.5","option_id":"51.0 x 92.5"},{"question_id":"3280","answer":"20","option_id":"20"}]}
+    [current_section_key] => 2
+    [answer] => 10859260580
+    [option_id] => 10859260580
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260111
+    [option_id] => 10859260111
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3276","answer":"10859260111/BDL/06-03-25/2378","option_id":"10859260111/BDL/06-03-25/2378"},{"question_id":"3277","answer":"RCALU0250","option_id":"RCALU0250"},{"question_id":"3278","answer":"51.0 x 92.5","option_id":"51.0 x 92.5"},{"question_id":"3280","answer":"2","option_id":"2"}]}
+    [current_section_key] => 0
+    [answer] => 10859260580
+    [option_id] => 10859260580
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260580
+    [option_id] => 10859260580
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10667747
+    [option_id] => 10667747
+    [user_id] => 10
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260112
+    [option_id] => 10859260112
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3276","answer":"10859260112/BDL/07-03-25/2406","option_id":"10859260112/BDL/07-03-25/2406"}]}
+    [current_section_key] => 0
+    [answer] => 10859260580
+    [option_id] => 10859260580
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10859260989
+    [option_id] => 10859260989
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 32859260989
+    [option_id] => 32859260989
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 754673140
+    [option_id] => 754673140
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10659674
+    [option_id] => 10659674
+    [user_id] => 10
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10659674
+    [option_id] => 10659674
+    [user_id] => 10
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10659674
+    [option_id] => 10659674
+    [user_id] => 10
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10659674
+    [option_id] => 10659674
+    [user_id] => 10
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10667747
+    [option_id] => 10667747
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10667747
+    [option_id] => 10667747
+    [user_id] => 10
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3276","answer":"10667747/BDL/31-03-25/30894","option_id":"10667747/BDL/31-03-25/30894"},{"question_id":"3277","answer":"RSAFG0320","option_id":"RSAFG0320"},{"question_id":"3278","answer":"54.0 x 90.0","option_id":"54.0 x 90.0"},{"question_id":"3280","answer":"4","option_id":"4"}]}
+    [current_section_key] => 2
+    [answer] => 10667747
+    [option_id] => 10667747
+    [user_id] => 10
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => 
+    [current_section_key] => 0
+    [answer] => 10667747
+    [option_id] => 10667747
+    [user_id] => 48
+    [infra_data] => {}
+)
+Array
+(
+    [selected_values] => {"0":[{"question_id":"3276","answer":"10667747/BDL/03-04-25/30975","option_id":"10667747/BDL/03-04-25/30975"},{"question_id":"3277","answer":"RSAFG0320","option_id":"RSAFG0320"},{"question_id":"3278","answer":"54.0 x 90.0","option_id":"54.0 x 90.0"},{"question_id":"3280","answer":"3","option_id":"3"}]}
+    [current_section_key] => 0
+    [answer] => 74259260580
+    [option_id] => 74259260580
+    [user_id] => 48
+    [infra_data] => {}
+)
