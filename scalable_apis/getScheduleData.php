@@ -6,10 +6,26 @@ Created for : This dynamic get api is used to get schedule id
 URL : https://flask.dfos.co/scalable_apis/getScheduleData.php?server=danone&schedule_id=17&fvf_main_form_id=125&fvf_main_field_id=1953
     Method : Get  
     Description : This API fetches the schedule ID based on the provided form and field IDs.
-
-
 */
+/*
+This endpoint retrieves the schedule value recorded in
+`form_via_form_main_audit_answers` for a given form and field. It accepts
+these GET parameters:
 
+ - `schedule_id`       – schedule ID to look up.
+ - `fvf_main_form_id`  – ID of the form that stores the answer.
+ - `fvf_main_field_id` – ID of the field where the schedule is saved.
+ - `server`            – optional database selector for the connection
+                          script.
+
+The script searches the audit answers table for the provided combination. If
+a match exists it returns `[{"id": <schedule_id>}]` with a 200 status code.
+If no record is found, a 500 status and JSON error message are returned.
+
+URL   : https://flask.dfos.co/scalable_apis/getScheduleData.php
+Method: GET
+Response: JSON array with `id` values or an error message
+*/
 // Enable error reporting for debugging
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
