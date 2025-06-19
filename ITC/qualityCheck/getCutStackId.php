@@ -6,6 +6,23 @@ Created for : This API is used to get audit id as per Quality check form submiss
 URL : https://flask.dfos.co/ITC/qualityCheck/getCutStackId.php
 */
 
+/*
+Created By : @Gunjan Sharma@15022025
+
+This endpoint returns the audit IDs recorded when quality checks were performed
+for a given packaging style. It expects a POST parameter `option_id` containing
+the desired packaging style and performs the following steps:
+
+1. Query form `33` for audits where the answer matches the packaging style.
+2. Collect the `fvf_main_audit_id` for each matching entry.
+
+The response is a JSON object with `status`, a `message`, and the array of
+audit IDs under `data.records`.
+URL : https://flask.dfos.co/ITC/qualityCheck/getCutStackId.php
+Method      : POST
+
+*/
+
 // Enable error reporting for debugging
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
