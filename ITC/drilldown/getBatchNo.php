@@ -7,6 +7,20 @@ URL : https://flask.dfos.co/ITC/drilldown/getBatchNo.php
 Type : Get 
 */
 
+This endpoint retrieves batch numbers currently marked as "Hold" so they can be
+reviewed before further processing. No parameters are required. The script
+performs these steps:
+
+1. Find batches in form `19` where field `2714` is set to 'Hold'.
+2. Confirm each batch number exists in form `18`.
+3. Exclude any batches that were later released as 'Good' in form `61`.
+4. Return the audit ID and batch number for every remaining record.
+
+Results are returned as a JSON array or an error message if the request method
+is not GET.
+URL   : https://flask.dfos.co/ITC/drilldown/getBatchNo.php
+Method: GET
+
 // Enable error reporting for debugging
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
