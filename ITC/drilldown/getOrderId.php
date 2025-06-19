@@ -7,6 +7,21 @@ URL : https://flask.dfos.co/ITC/drilldown/getOrderId.php
 Type : Get
 */
 
+This endpoint returns distinct order IDs that match a given packing type
+and optional filters. Clients may supply any of these GET parameters:
+
+ - `packing_type`       – packaging style such as BP, RPT or BDL
+ - `fvf_main_form_id`   – form identifier containing the order values
+ - `fvf_main_field_id`  – field identifier containing the order values
+ - `from_date` and `to_date` – limit records to this date range
+
+The script joins audit answers to locate order IDs that meet the provided
+criteria. Results are returned as a JSON array or an error message when no
+records are found.
+URL   : https://flask.dfos.co/ITC/drilldown/getOrderId.php
+Method: GET
+    
+*/
 // Enable error reporting for debugging
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
