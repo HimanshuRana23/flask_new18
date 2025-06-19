@@ -6,8 +6,7 @@ Created for : This API retrieves batch numbers that are marked as "Hold" in reco
 URL : https://flask.dfos.co/ITC/drilldown/getBatchNo.php 
 Type : Get 
 */
-
-This endpoint retrieves batch numbers currently marked as "Hold" so they can be
+/*This endpoint retrieves batch numbers currently marked as "Hold" so they can be
 reviewed before further processing. No parameters are required. The script
 performs these steps:
 
@@ -20,7 +19,7 @@ Results are returned as a JSON array or an error message if the request method
 is not GET.
 URL   : https://flask.dfos.co/ITC/drilldown/getBatchNo.php
 Method: GET
-
+*/
 // Enable error reporting for debugging
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
